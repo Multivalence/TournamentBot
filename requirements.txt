@@ -1,0 +1,6 @@
+twitch-python
+discord.py[voice]
+wavelink
+python-dotenv
+aiosqlite
+emoji
