@@ -12,5 +12,6 @@
 7. CD into the bin directory by using terminal or command prompt then run the following command `java -jar lavalink.jar`
 8. Get a discord bot token by creating an application here [Discord Developer Console](https://discord.com/developers/applications)
 9. Insert all neccessary data in the .env file (in this repository). Note that all channels must be given as IDS
+10. txt files in the customize folder (in this repository) can be customized to your liking. However, there are default messages already in there.
 
 ***Note**: You must have the lavalink server open in parallel with the bot for the music plugin to function*
