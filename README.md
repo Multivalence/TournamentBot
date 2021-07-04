@@ -15,6 +15,7 @@
 10. CD into the bin directory by using terminal or command prompt then run the following command `java -jar lavalink.jar`
 11. Get a discord bot token by creating an application here [Discord Developer Console](https://discord.com/developers/applications)
 12. Insert all neccessary data in the .env file (in this repository). Note that all channels must be given as IDS
-13. txt files in the customize folder (in this repository) can be customized to your liking. However, there are default messages already in there.
+13. CD to the Tournament Bot directory then run the command `python app.py`
+14. txt files in the customize folder (in this repository) can be customized to your liking. However, there are default messages already in there.
 
 ***Note**: You must have the lavalink server open in parallel with the bot for the music plugin to function*
