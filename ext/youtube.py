@@ -56,8 +56,8 @@ class YouTube(commands.Cog):
             await ctx.send("That Channel is already in the database!")
 
 
-
-    @tasks.loop(seconds=600)
+    #Able to handle ~30 channels per day.
+    @tasks.loop(seconds=28800)
     async def check_for_new_video(self):
 
         channels = self.channels
